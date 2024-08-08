@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://blog.51xyw.xyz' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.blog.51xyw.xyz' }
+    { title: '欢迎访问我的导航网站', url: 'https://dh.51xyw.xyz' }
   ],
 
   // 英雄区左右侧组件颠倒位置
